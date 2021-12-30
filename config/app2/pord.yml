@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: app2-prod
+server:
+  port: 8821

@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: app3-prod
+server:
+  port: 8831
