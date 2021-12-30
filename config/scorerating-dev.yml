@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: app3-dev
+server:
+  port: 8830
