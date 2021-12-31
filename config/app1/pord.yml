@@ -3,3 +3,8 @@ spring:
     name: app1-prod
 server:
   port: 8811
+data:
+  env: dev
+  user:
+    username: app1-dev
+    password: 123
