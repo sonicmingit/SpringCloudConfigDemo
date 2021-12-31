@@ -3,3 +3,9 @@ spring:
     name: app3-dev
 server:
   port: 8830
+
+data:
+  env: dev
+  user:
+    username: app3-dev
+    password: 123
